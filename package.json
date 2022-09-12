@@ -19,5 +19,8 @@
   "homepage": "https://github.com/ArtuAdler/jest#readme",
   "devDependencies": {
     "jest": "^29.0.3"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
   }
 }
